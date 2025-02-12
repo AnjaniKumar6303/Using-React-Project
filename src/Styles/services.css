@@ -1,0 +1,13 @@
+.services img {
+    height: 85vh;
+    width: 100%;
+}
+
+@media (max-width:650px) {
+    .services img {
+        height: 55vh;
+         width: 60%;
+    }
+
+}
+
